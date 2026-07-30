@@ -1,0 +1,21 @@
+# Data handling
+pandas
+numpy
+
+# Data visualization
+matplotlib
+
+# Azure SQL connection
+SQLAlchemy
+pyodbc
+
+# Statistical analysis and A/B testing
+scipy
+statsmodels
+
+# Environment variables
+python-dotenv
+
+# Jupyter notebooks
+jupyter
+ipykernel
