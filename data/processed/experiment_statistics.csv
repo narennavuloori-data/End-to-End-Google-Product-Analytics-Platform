@@ -1,0 +1,10 @@
+metric,control,treatment,difference,uplift_percent,ci_low,ci_high,p_value
+Average Watch Time per Session,1.0577,1.0409,-0.0167,-1.5833,-0.2674,0.2339,0.8958
+Videos Watched per Session,0.1829,0.1576,-0.0253,-13.8343,-0.0425,-0.0081,0.004
+Impression CTR,40.0103,38.8411,-1.1692,-2.9222,-3.3858,1.0474,0.3013
+Video Completion Rate,48.8651,54.5521,5.687,11.6382,2.0829,9.2911,0.002
+Engagement Rate,29.256,29.279,0.023,0.0785,-3.2644,3.3103,0.9891
+Immediate Exit Rate,0.0416,0.0,-0.0416,-100.0,-0.1232,0.0399,0.3249
+Very Short View Rate,12.5473,11.2163,-1.331,-10.6077,-3.6642,1.0023,0.2653
+Repeated Recommendation Rate,0.0,0.0,0.0,,0.0,0.0,
+Seven-Day Retention,2.8288,2.6707,-0.158,-5.5867,-0.7468,0.4307,0.5988

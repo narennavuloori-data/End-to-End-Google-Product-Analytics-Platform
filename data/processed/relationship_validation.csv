@@ -1,0 +1,8 @@
+,invalid_rows
+sessions_without_user,0
+videos_without_channel,0
+events_without_session,0
+events_without_user,0
+events_with_invalid_video,0
+events_with_invalid_channel,0
+experiment_users_missing,0

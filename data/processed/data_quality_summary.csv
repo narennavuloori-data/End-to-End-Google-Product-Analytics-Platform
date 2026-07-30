@@ -1,0 +1,12 @@
+,before_cleaning,after_cleaning,fixed
+Missing values,6329269,7416471,-1087202
+Exact duplicate rows,3892,0,3892
+Duplicate primary keys,3892,0,3892
+Invalid dates,0,0,0
+Negative durations,0,0,0
+Invalid event names,0,0,0
+Invalid categories,6032,0,6032
+Orphan foreign keys,0,0,0
+Events outside session time,0,0,0
+Watch duration over video duration,0,0,0
+Users in multiple experiment groups,0,0,0
